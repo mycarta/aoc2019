@@ -1,3 +1,6 @@
 # advent-of-code-2019
 
-First participation.
+[About](https://adventofcode.com/2019/about)
+
+My first participation
+
